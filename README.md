@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CodeHimalaya pvt. Ltd<br><br>🌱 I’m currently learning NodeJs along withNextJS<br><br>👨‍💻 All of my projects are available at https://github.com/AsheshRanaGurung<br><br>💬 You can ask me about Frontend React<br><br>📫   reach me @  ashesh7272@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1bgqKUf5vUrNYhJdI-DV92j34ZTND9eHk/view?usp=drive_link<br><br>⚡ Fun fact Don't ask me to deploy prod on friday
+🔭 I’m currently working on CodeHimalaya pvt. Ltd<br><br>🌱 I’m learning NodeJs along withNextJS<br><br>👨‍💻 All of my projects are available at https://github.com/AsheshRanaGurung<br><br>💬 You can ask me about Frontend React<br><br>📫   reach me @  ashesh7272@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1bgqKUf5vUrNYhJdI-DV92j34ZTND9eHk/view?usp=drive_link<br><br>⚡ Fun fact Don't ask me to deploy prod on friday
 
 
 ## 🌐 Socials:
